@@ -13,6 +13,9 @@
 - Go 爬虫框架 https://github.com/gocolly/colly
 - json浏览 https://github.com/antonmedv/fx
 - go代码检查 https://github.com/mgechev/revive
+- go自动编译启动 https://github.com/cosmtrek/air
+- go web服务器 https://github.com/caddyserver/caddy
+- croc 两台机器传输文件  https://github.com/schollz/croc
 
 # python 工具
 - datatest https://github.com/pudo/dataset
