@@ -24,6 +24,7 @@
 - frostmourne开源管理后台 https://github.com/AutohomeCorp/frostmourne
 - 可用来快速开发 Java Web 项目 https://github.com/noear/solon
 - forest极简的声明式 Java HTTP 客户端 https://github.com/dromara/forest
+- 覆盖率 https://github.com/jacoco/jacoco
 
 
 # 测试
@@ -32,3 +33,7 @@
 
 # 其他
 - 微信备份 https://github.com/greycodee/wechat-backup
+- go学习资料 https://github.com/inancgumus/learngo
+- python学习资料 https://github.com/trekhleb/learn-python
+- go刷题 https://github.com/greyireland/algorithm-pattern
+- go游戏 https://github.com/hajimehoshi/ebiten
