@@ -16,6 +16,14 @@
 - go自动编译启动 https://github.com/cosmtrek/air
 - go web服务器 https://github.com/caddyserver/caddy
 - croc 两台机器传输文件  https://github.com/schollz/croc
+- web框架 https://github.com/labstack/echo
+- go test学习 https://github.com/quii/learn-go-with-tests
+- go http请求发送 https://github.com/EddieIvan01/nic/blob/master/docs/zh-cn.md
+- go任务调度学习 https://github.com/prprprus/scheduler
+- go admin生成 https://github.com/prprprus/scheduler
+- 输出json格式的日志 https://github.com/rs/zerolog
+- go并发 https://github.com/xxjwxc/gowp
+- 解析json https://github.com/thedevsaddam/gojsonq
 
 # python 工具
 - datatest https://github.com/pudo/dataset
@@ -37,3 +45,7 @@
 - python学习资料 https://github.com/trekhleb/learn-python
 - go刷题 https://github.com/greyireland/algorithm-pattern
 - go游戏 https://github.com/hajimehoshi/ebiten
+- go示例代码 https://github.com/mmcgrana/gobyexample
+- 打包mac应用go https://github.com/machinebox/appify
+- go游戏开发 https://github.com/liangdas/mqant
+- go基础文档 https://github.com/unknwon/go-fundamental-programming
